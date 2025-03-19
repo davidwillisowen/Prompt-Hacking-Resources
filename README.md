@@ -8,9 +8,9 @@
  ## Sections
 
 - **[BLOGS](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/BLOGS.md)** - Written content covering core concepts and novel research
-- **COMMUNITIES** - Places you can hang out and discuss Prompt Hacking
-- **COURSES** - Structured learning paths covering AI Security content 
-- **EVENTS** - Test your skills in paid competitions
-- **JAILBREAKS** - Look at other people's techniques for Hacking LLMs
+- **[COMMUNITIES](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/COMMUNITIES.md)** - Places you can hang out and discuss Prompt Hacking
+- **[COURSES](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/COURSES.md)** - Structured learning paths covering AI Security content 
+- **[EVENTS](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/EVENTS.md)** - Test your skills in paid competitions
+- **[JAILBREAKS](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/JAILBREAKS.md)** - Look at other people's techniques for Hacking LLMs
 
 I hope you find this useful. Any suggestions, please let me know.
