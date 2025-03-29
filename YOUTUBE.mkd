@@ -1,0 +1,30 @@
+# YouTube Resources
+
+A collection of helpful videos on AI Red Teaming, Jailbreaking, and Prompt Injection.
+
+---
+
+## AI Red Teaming
+
+1. [Intro to AI Red Teaming](https://www.youtube.com/watch?v=5NPfP1C3E0A) – Basic concepts explained
+2. [Building AI Red Team Tools](https://www.youtube.com/watch?v=YBdp2kW2mbQ) – Tool demos and walkthroughs
+3. [LLM Red Teaming Live](https://www.youtube.com/watch?v=bsYJcCkQZxQ) – Real-world red teaming session
+4. [AI Risk & Threat Modeling](https://www.youtube.com/watch?v=2p0dFFZx4YE) – Risk management insights
+5. [AI Security Conference Talk](https://www.youtube.com/watch?v=dNsxCyV0IIQ) – Expert perspectives
+
+## Jailbreaking
+
+1. [What is Jailbreaking AI?](https://www.youtube.com/watch?v=hzlhS5pQVoU) – Overview for beginners
+2. [How to Bypass LLM Filters](https://www.youtube.com/watch?v=2O-Zs03FUEo) – Examples of jailbreak prompts
+3. [Prompt Injection & Jailbreaks](https://www.youtube.com/watch?v=cdk2r9YyQUo) – Visual demo of attacks
+4. [AI Jailbreaks Compilation](https://www.youtube.com/watch?v=Jle0g1r5A9s) – Funny + serious examples
+5. [Securing LLMs from Jailbreaks](https://www.youtube.com/watch?v=ItA0tx1L6XI) – Defensive strategies
+
+## Prompt Injection
+
+1. [Prompt Injection Explained](https://www.youtube.com/watch?v=7eALXywYteY) – Clear intro to attacks
+2. [Prompt Injection Attacks in Action](https://www.youtube.com/watch?v=He1_3uSmkFE) – Demos of real exploits
+3. [How Prompt Injection Works](https://www.youtube.com/watch?v=evD6BYWnvd8) – Technical breakdown
+4. [Preventing Prompt Injection](https://www.youtube.com/watch?v=4Ih6HVLhA20) – Tips for devs
+5. [Prompt Injection in the Wild](https://www.youtube.com/watch?v=3yOL0z7R65M) – Case studies
+
