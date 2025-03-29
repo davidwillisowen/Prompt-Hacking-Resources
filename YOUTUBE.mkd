@@ -20,3 +20,13 @@ A collection of helpful videos on AI Red Teaming, Jailbreaking, and Prompt Injec
 - [How Jailbreakers Try to “Free” AI](https://www.youtube.com/watch?v=CIQe2jdYAJ0) – The mindset behind jailbreakers  
 - [Defending Against AI Jailbreaks](https://www.youtube.com/watch?v=BaNXYqcfDyo) – Protection strategies
 
+---
+
+## Prompt Injection  
+> Note: Prompt Injection content is often embedded in jailbreak-focused videos.
+
+- [AI Jailbroken in 30 Seconds?!](https://www.youtube.com/watch?v=YatNUON2yOQ) – How fast prompt injection can occur  
+- [Anthropic's Stunning New Jailbreak](https://www.youtube.com/watch?v=LGHaMcP_flA) – Includes prompt injection method  
+- [New AI Jailbreak Method Shatters Models](https://www.youtube.com/watch?v=5cEvNO9rZgI) – Attack working on GPT-4 and others  
+- [Jailbreaking AI - Deepseek & Prompt Tricks](https://www.youtube.com/watch?v=9TVG9Oxda0M) – Advanced prompt injection in the wild  
+- [First to Jailbreak Claude Wins $20,000](https://www.youtube.com/watch?v=m5uWKRJhcao) – Real challenge involving prompt injection  
