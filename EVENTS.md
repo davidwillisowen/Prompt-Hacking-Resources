@@ -2,3 +2,13 @@
 - HackAPrompt - https://www.hackaprompt.com/
 - RedTeam Arena - https://redarena.ai/
 - Grayswan Arena - https://app.grayswan.ai/arena/leaderboard
+- [Prompt Engineering Conference](https://promptengineering.rocks/) – The world's first conference dedicated to prompt engineering. :contentReference[oaicite:0]{index=0}
+- [AI Prompt Engineering Workshop](https://events.twu.edu/event/ai-prompt-engineering) – Learn to craft effective prompts for accurate AI responses. :contentReference[oaicite:1]{index=1}
+- [Artificial Intelligence 202: AI Prompt Engineering Workshop](https://www.iup.edu/events/scholarlycommunication/2025/04/artificial-intelligence-202-ai-prompt-engineering.html) – Hands-on workshop optimizing AI responses for various tasks. :contentReference[oaicite:2]{index=2}
+- [Prompt Engineering: Harness the Power of AI](https://www.eventbrite.com/e/prompt-engineering-harness-the-power-of-ai-tickets-966470809207) – Event focusing on leveraging AI through prompt engineering. :contentReference[oaicite:3]{index=3}
+- [AI Workshop: LLMs and Prompt Engineering](https://www.ucsc-extension.edu/events/ai-workshop-llms-and-prompt-engineering/) – Introduction to AI tools for content creation and manipulation. :contentReference[oaicite:4]{index=4}
+- [Ask the Experts: Focus on AI Prompt Engineering](https://events.techsoup.org/events/details/techsoup-techsoup-events-and-webinars-presents-ask-the-experts-focus-on-ai-prompt-engineering/) – Session guiding nonprofits on developing effective AI prompts. :contentReference[oaicite:5]{index=5}
+- [Prompt Engineering 101: Optimize the Use of AI in TBL Teaching](https://www.eventbrite.com/e/prompt-engineering-101-optimize-the-use-of-ai-in-tbl-teaching-tickets-926251923437) – Workshop on using AI prompts in team-based learning. :contentReference[oaicite:6]{index=6}
+- [Prompt Engineering 2024 - Conf42](https://www.conf42.com/prompt2024) – Conference covering prompt engineering challenges and best practices. :contentReference[oaicite:7]{index=7}
+- [Advanced AI Prompt Engineering for Marketers (201)](https://www.ana.net/training/show/id/PE-VOE-CS-FEB25) – Workshop equipping marketers with advanced AI prompt skills. :contentReference[oaicite:8]{index=8}
+- [ChatGPT4PCG 2 Competition: Prompt Engineering for Science Birds Level Generation](https://arxiv.org/abs/2403.02610) – Competition exploring prompt engineering in procedural content generation. :contentReference[oaicite:9]{index=9}
