@@ -3,3 +3,13 @@
 - EmbraceTheRed - https://embracethered.com/blog/
 - Joseph Thacker - https://josephthacker.com/
 - LearnPrompting Prompt Hacking - https://learnprompting.org/docs/prompt_hacking/introduction
+- [Promptmetheus Blog](https://promptmetheus.com/blog) – Research and news on prompting and generative AI  
+- [Medium: Prompt Engineering](https://medium.com/tag/prompt-engineering) – Articles on prompt strategies and real-world use  
+- [Portkey Blog: Complete Prompt Engineering Guide](https://portkey.ai/blog/the-complete-guide-to-prompt-engineering) – Techniques and tips for designing LLM prompts  
+- [OpenAI Docs: Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering) – Official strategies from OpenAI for better prompts  
+- [Google Cloud Blog – Prompt Engineering](https://cloud.google.com/blog/products/ai-machine-learning/ai-prompt-engineering-best-practices) – Best practices for efficient prompt writing  
+- [Ploomber Blog – Prompt Engineering Techniques](https://ploomber.io/blog/prompt-engineering-techniques/) – Developer-focused overview of prompt methods  
+- [Lifewire – AI Prompt Writing Tips](https://www.lifewire.com/ai-prompt-writing-tips-8734852) – Practical tips to write effective prompts  
+- [DataCamp Blog – Future of Prompt Engineering](https://www.datacamp.com/blog/what-is-prompt-engineering-the-future-of-ai-communication) – Guide to the future of AI communication  
+- [Digitate Blog – Prompt Engineering Guide](https://www.digitate.com/blog/what-is-prompt-engineering-a-comprehensive-guide) – In-depth explanation of prompt engineering techniques  
+- [Prompt Engineering Stories – Medium](https://medium.com/tag/prompt-engineering) – Community stories and use cases in prompt design  
