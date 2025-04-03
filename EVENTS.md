@@ -1,14 +1,12 @@
 # EVENTS
-- HackAPrompt - https://www.hackaprompt.com/
-- RedTeam Arena - https://redarena.ai/
-- Grayswan Arena - https://app.grayswan.ai/arena/leaderboard
-- [Prompt Engineering Conference](https://promptengineering.rocks/) – The world's first conference dedicated to prompt engineering. :contentReference[oaicite:0]{index=0}
-- [AI Prompt Engineering Workshop](https://events.twu.edu/event/ai-prompt-engineering) – Learn to craft effective prompts for accurate AI responses. :contentReference[oaicite:1]{index=1}
-- [Artificial Intelligence 202: AI Prompt Engineering Workshop](https://www.iup.edu/events/scholarlycommunication/2025/04/artificial-intelligence-202-ai-prompt-engineering.html) – Hands-on workshop optimizing AI responses for various tasks. :contentReference[oaicite:2]{index=2}
-- [Prompt Engineering: Harness the Power of AI](https://www.eventbrite.com/e/prompt-engineering-harness-the-power-of-ai-tickets-966470809207) – Event focusing on leveraging AI through prompt engineering. :contentReference[oaicite:3]{index=3}
-- [AI Workshop: LLMs and Prompt Engineering](https://www.ucsc-extension.edu/events/ai-workshop-llms-and-prompt-engineering/) – Introduction to AI tools for content creation and manipulation. :contentReference[oaicite:4]{index=4}
-- [Ask the Experts: Focus on AI Prompt Engineering](https://events.techsoup.org/events/details/techsoup-techsoup-events-and-webinars-presents-ask-the-experts-focus-on-ai-prompt-engineering/) – Session guiding nonprofits on developing effective AI prompts. :contentReference[oaicite:5]{index=5}
-- [Prompt Engineering 101: Optimize the Use of AI in TBL Teaching](https://www.eventbrite.com/e/prompt-engineering-101-optimize-the-use-of-ai-in-tbl-teaching-tickets-926251923437) – Workshop on using AI prompts in team-based learning. :contentReference[oaicite:6]{index=6}
-- [Prompt Engineering 2024 - Conf42](https://www.conf42.com/prompt2024) – Conference covering prompt engineering challenges and best practices. :contentReference[oaicite:7]{index=7}
-- [Advanced AI Prompt Engineering for Marketers (201)](https://www.ana.net/training/show/id/PE-VOE-CS-FEB25) – Workshop equipping marketers with advanced AI prompt skills. :contentReference[oaicite:8]{index=8}
-- [ChatGPT4PCG 2 Competition: Prompt Engineering for Science Birds Level Generation](https://arxiv.org/abs/2403.02610) – Competition exploring prompt engineering in procedural content generation. :contentReference[oaicite:9]{index=9}
+--- 
+• [HackAPrompt](https://www.hackaprompt.com/) – Online competition where participants try to jailbreak AI systems through adversarial prompt crafting  
+• [RedTeam Arena](https://redarena.ai/) – Gamified AI red teaming platform focused on discovering vulnerabilities in LLMs  
+• [Grayswan Arena](https://app.grayswan.ai/arena/leaderboard) – Leaderboard-based environment for testing AI model robustness against adversarial inputs  
+• [AI Security Summit 2024](https://www.scale.com/summit/access) – Executive-level summit by Scale AI, addressing the latest developments in AI security and safety  
+• [AI Red-Teaming Workshop (SEI)](https://insights.sei.cmu.edu/news/ai-red-teaming-workshop-will-explore-best-practices/) – Workshop by CMU SEI focused on methodologies and best practices in red-teaming AI systems  
+• [AISec Workshop](https://aisec.cc/) – Academic workshop co-located with major ML conferences (like CCS/NeurIPS) on AI security and privacy research  
+• [AI Security Symposium 2024](https://info.checkmarx.com/ai-security-symposium-2024) – Event focused on the risks and strategies around secure AI adoption in enterprise environments  
+• [Black Hat USA 2024 AI Summit](https://www.blackhat.com/us-24/ai-summit.html) – Part of Black Hat USA, featuring talks on LLM security, adversarial ML, and real-world red teaming   
+• [AI Cybersecurity Summit 2025 (SANS)](https://www.sans.org/cyber-security-training-events/ai-summit-2025/) – Summit offering technical sessions and hands-on labs at the intersection of cybersecurity and AI  
+• [Generative AI Red Teaming Challenge 2024 (Clova)](https://clova.ai/en/tech-blog/en-generative-ai-red-teaming-challenge-2024) – Competitive red teaming event by Clova to stress-test and harden LLMs
