@@ -21,7 +21,6 @@
 ---
 
 ## Prompt Injection  
-> Note: Prompt Injection content is often embedded in jailbreak-focused videos.
 
 - [AI Jailbroken in 30 Seconds?!](https://www.youtube.com/watch?v=YatNUON2yOQ) – How fast prompt injection can occur  
 - [Anthropic's Stunning New Jailbreak](https://www.youtube.com/watch?v=LGHaMcP_flA) – Includes prompt injection method  
