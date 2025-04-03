@@ -1,7 +1,5 @@
 # YouTube Resources
 
-A collection of helpful videos on AI Red Teaming, Jailbreaking, and Prompt Injection.
-
 ---
 ## AI Red Teaming
 
